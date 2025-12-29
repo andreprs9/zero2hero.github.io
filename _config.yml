@@ -1,5 +1,7 @@
 title: The Zero 2 Hero Project
 description: Road to levelling up.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-hacker
+theme: minima
+
+show_excerpts: true
+minima:
+skin: dark
