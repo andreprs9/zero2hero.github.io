@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Zero to Hero
 ---
 
 [TryHackMe](https://tryhackme.com/p/ciber.v01d) ·
@@ -8,10 +7,7 @@ title: Zero to Hero
 
 ---
 layout: default
-title: Zero to Hero
 ---
-
-# Zero to Hero
 
 A structured and practical journey focused on building offensive security skills through hands-on learning, labs, and technical deliverables.
 
