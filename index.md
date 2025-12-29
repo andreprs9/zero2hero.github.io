@@ -6,8 +6,6 @@ layout: page
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-pires-117636230/)
 
 ---
-layout: default
----
 
 A structured and practical journey focused on building offensive security skills through hands-on learning, labs, and technical deliverables.
 
