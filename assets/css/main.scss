@@ -3,12 +3,9 @@
 
 @import "minima";
 
-/* =========================
-   FORCE DARK TERMINAL THEME
-   ========================= */
-
+/* GLOBAL */
 body {
-  background-color: #000000 !important;
+  background-color: #000 !important;
   color: #c9d1d9 !important;
 }
 
@@ -17,40 +14,21 @@ h1, h2, h3, h4, h5, h6 {
   color: #00ff9c !important;
 }
 
-/* LINKS (PURPLE) */
+/* LINKS (ROXO) */
 a {
   color: #b388ff !important;
 }
 a:hover {
   color: #00ff9c !important;
-  text-decoration: underline;
-}
-
-/* HEADER */
-.site-header {
-  background-color: #000000 !important;
-  border-bottom: 1px solid #0f0f0f;
-}
-
-.site-title {
-  color: #00ff9c !important;
-}
-
-.site-nav a {
-  color: #b388ff !important;
-}
-.site-nav a:hover {
-  color: #00ff9c !important;
-}
-
-/* CODE BLOCKS */
-pre, code {
-  background-color: #050505 !important;
-  color: #7ee787 !important;
-  border: 1px solid #0f0f0f;
 }
 
 /* SEPARATORS */
 hr {
   border: 1px solid #0f0f0f;
+}
+
+/* CODE */
+pre, code {
+  background-color: #050505 !important;
+  color: #7ee787 !important;
 }
